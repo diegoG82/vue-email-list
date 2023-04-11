@@ -8,7 +8,7 @@ createApp({
   data() {
     return {
       userEmail: [],
-      listcomplete: true,
+      listcomplete: false,
     };
   },
   mounted() {
